@@ -1,0 +1,3 @@
+module climateChangeAnalyzer {
+	exports climatechange;
+}
